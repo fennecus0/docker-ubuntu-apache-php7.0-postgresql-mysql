@@ -1,0 +1,1 @@
+MAINTAINER Vadym Melnyk <hello@vadymmelnyk.com>
